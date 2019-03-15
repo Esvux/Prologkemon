@@ -34,7 +34,7 @@ equipo(misthy, horsea).
 equipo(ash_ketchup, pikachu).
 equipo(ash_ketchup, bulbasaur).
 equipo(ash_ketchup, charizard).
-equipo(ash_ketchup, squirtel).
+equipo(ash_ketchup, squirtle).
 equipo(ash_ketchup, muk).
 equipo(ash_ketchup, krabby).
 
