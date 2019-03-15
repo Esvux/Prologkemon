@@ -326,9 +326,9 @@ ataque_muy_efectivo(X, Y):-es_tipo_acero(X),es_tipo_hada(Y)
  ; es_tipo_volador(X),es_tipo_lucha(Y)
  ; es_tipo_volador(X),es_tipo_planta(Y).
 
-efectividad_de_ataque(X, Y, F):-ataque_no_efectivo(X,Y), F is 0
- ; ataque_poco_efectivo(X,Y),F is 0.5
- ; ataque_efectivo(X,Y),F is 1
- ; ataque_muy_efectivo(X,Y),F is 2.
+efectividad_de_ataque(X, Y, F):-ataque_no_efectivo(X,Y), F is 0, write(' Sin efecto ')
+ ; ataque_poco_efectivo(X,Y),F is 0.5, write(' Poco efectivo ')
+ ; ataque_efectivo(X,Y),F is 1, write(' Efectivo ')
+ ; ataque_muy_efectivo(X,Y),F is 2, write(' Muy efectivo ').
 
 

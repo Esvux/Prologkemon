@@ -1,240 +1,240 @@
-tipo(bulbasaur, planta).
-tipo(bulbasaur, veneno).
-tipo(ivysaur, planta).
-tipo(ivysaur, veneno).
-tipo(venusaur, planta).
-tipo(venusaur, veneno).
-tipo(charmander, fuego).
-tipo(charmeleon, fuego).
-tipo(charizard, fuego).
-tipo(squirtle, agua).
-tipo(wartortle, agua).
-tipo(blastoise, agua).
-tipo(caterpie, bicho).
-tipo(metapod, bicho).
-tipo(butterfree, bicho).
-tipo(butterfree, volador).
-tipo(weedle, bicho).
-tipo(weedle, veneno).
-tipo(kakuna, bicho).
-tipo(kakuna, veneno).
-tipo(beedrill, bicho).
-tipo(beedrill, veneno).
-tipo(pidgey, normal).
-tipo(pidgey, volador).
-tipo(pidgeotto, normal).
-tipo(pidgeotto, volador).
-tipo(pidgeot, normal).
-tipo(pidgeot, volador).
-tipo(rattata, normal).
-tipo(raticate, normal).
-tipo(spearow, normal).
-tipo(spearow, volador).
-tipo(fearow, normal).
-tipo(fearow, volador).
-tipo(ekans, veneno).
-tipo(arbok, veneno).
-tipo(pikachu, electrico).
-tipo(raichu, electrico).
-tipo(sandshrew, tierra).
-tipo(sandslash, tierra).
-tipo(nidoran, veneno).
-tipo(nidorina, veneno).
-tipo(nidoqueen, veneno).
-tipo(nidoqueen, tierra).
-tipo(nidoran, veneno).
-tipo(nidorino, veneno).
-tipo(nidoking, veneno).
-tipo(nidoking, tierra).
-tipo(clefairy, hada).
-tipo(clefable, hada).
-tipo(vulpix, fuego).
-tipo(ninetales, fuego).
-tipo(jigglypuff, normal).
-tipo(jigglypuff, hada).
-tipo(wigglytuff, normal).
-tipo(wigglytuff, hada).
-tipo(zubat, veneno).
-tipo(zubat, volador).
-tipo(golbat, veneno).
-tipo(golbat, volador).
-tipo(oddish, planta).
-tipo(oddish, veneno).
-tipo(gloom, planta).
-tipo(gloom, veneno).
-tipo(vileplume, planta).
-tipo(vileplume, veneno).
-tipo(paras, bicho).
-tipo(paras, planta).
-tipo(parasect, bicho).
-tipo(parasect, planta).
-tipo(venonat, bicho).
-tipo(venonat, veneno).
-tipo(venomoth, bicho).
-tipo(venomoth, veneno).
-tipo(diglett, tierra).
-tipo(dugtrio, tierra).
-tipo(meowth, normal).
-tipo(persian, normal).
-tipo(psyduck, agua).
-tipo(golduck, agua).
-tipo(mankey, lucha).
-tipo(primeape, lucha).
-tipo(growlithe, fuego).
-tipo(arcanine, fuego).
-tipo(poliwag, agua).
-tipo(poliwhirl, agua).
-tipo(poliwrath, agua).
-tipo(poliwrath, lucha).
-tipo(abra, psiquico).
-tipo(kadabra, psiquico).
-tipo(alakazam, psiquico).
-tipo(machop, lucha).
-tipo(machoke, lucha).
-tipo(machamp, lucha).
-tipo(bellsprout, planta).
-tipo(bellsprout, veneno).
-tipo(weepinbell, planta).
-tipo(weepinbell, veneno).
-tipo(victreebel, planta).
-tipo(victreebel, veneno).
-tipo(tentacool, agua).
-tipo(tentacool, veneno).
-tipo(tentacruel, agua).
-tipo(tentacruel, veneno).
-tipo(geodude, roca).
-tipo(geodude, tierra).
-tipo(graveler, roca).
-tipo(graveler, tierra).
-tipo(golem, roca).
-tipo(golem, tierra).
-tipo(ponyta, fuego).
-tipo(rapidash, fuego).
-tipo(slowpoke, agua).
-tipo(slowpoke, psiquico).
-tipo(slowbro, agua).
-tipo(slowbro, psiquico).
-tipo(magnemite, electrico).
-tipo(magnemite, acero).
-tipo(magneton, electrico).
-tipo(magneton, acero).
-tipo(farfetchd, normal).
-tipo(farfetchd, volador).
-tipo(doduo, normal).
-tipo(doduo, volador).
-tipo(dodrio, normal).
-tipo(dodrio, volador).
-tipo(seel, agua).
-tipo(dewgong, agua).
-tipo(dewgong, hielo).
-tipo(grimer, veneno).
-tipo(muk, veneno).
-tipo(shellder, agua).
-tipo(cloyster, agua).
-tipo(cloyster, hielo).
-tipo(gastly, fantasma).
-tipo(gastly, veneno).
-tipo(haunter, fantasma).
-tipo(haunter, veneno).
-tipo(gengar, fantasma).
-tipo(gengar, veneno).
-tipo(onix, roca).
-tipo(onix, tierra).
-tipo(drowzee, psiquico).
-tipo(hypno, psiquico).
-tipo(krabby, agua).
-tipo(kingler, agua).
-tipo(voltorb, electrico).
-tipo(electrode, electrico).
-tipo(exeggcute, planta).
-tipo(exeggcute, psiquico).
-tipo(exeggutor, planta).
-tipo(exeggutor, psiquico).
-tipo(cubone, tierra).
-tipo(marowak, tierra).
-tipo(hitmonlee, lucha).
-tipo(hitmonchan, lucha).
-tipo(lickitung, normal).
-tipo(koffing, veneno).
-tipo(weezing, veneno).
-tipo(rhyhorn, tierra).
-tipo(rhyhorn, roca).
-tipo(rhydon, tierra).
-tipo(rhydon, roca).
-tipo(chansey, normal).
-tipo(tangela, planta).
-tipo(kangaskhan, normal).
-tipo(horsea, agua).
-tipo(seadra, agua).
-tipo(goldeen, agua).
-tipo(seaking, agua).
-tipo(staryu, agua).
-tipo(starmie, agua).
-tipo(starmie, psiquico).
-tipo(mr_mime, psiquico).
-tipo(mr_mime, hada).
-tipo(scyther, bicho).
-tipo(scyther, volador).
-tipo(jynx, hielo).
-tipo(jynx, psiquico).
-tipo(electabuzz, electrico).
-tipo(magmar, fuego).
-tipo(pinsir, bicho).
-tipo(tauros, normal).
-tipo(magikarp, agua).
-tipo(gyarados, agua).
-tipo(gyarados, volador).
-tipo(lapras, agua).
-tipo(lapras, hielo).
-tipo(ditto, normal).
-tipo(eevee, normal).
-tipo(vaporeon, agua).
-tipo(jolteon, electrico).
-tipo(flareon, fuego).
-tipo(porygon, normal).
-tipo(omanyte, roca).
-tipo(omanyte, agua).
-tipo(omastar, roca).
-tipo(omastar, agua).
-tipo(kabuto, roca).
-tipo(kabuto, agua).
-tipo(kabutops, roca).
-tipo(kabutops, agua).
-tipo(aerodactyl, roca).
-tipo(aerodactyl, volador).
-tipo(snorlax, normal).
-tipo(articuno, hielo).
-tipo(articuno, volador).
-tipo(zapdos, electrico).
-tipo(zapdos, volador).
-tipo(moltres, fuego).
-tipo(moltres, volador).
-tipo(dratini, dragon).
-tipo(dragonair, dragon).
-tipo(dragonite, dragon).
-tipo(dragonite, volador).
-tipo(mewtwo, psiquico).
-tipo(mew, psiquico).
+tiene(bulbasaur, tipo, planta).
+tiene(bulbasaur, tipo, veneno).
+tiene(ivysaur, tipo, planta).
+tiene(ivysaur, tipo, veneno).
+tiene(venusaur, tipo, planta).
+tiene(venusaur, tipo, veneno).
+tiene(charmander, tipo, fuego).
+tiene(charmeleon, tipo, fuego).
+tiene(charizard, tipo, fuego).
+tiene(squirtle, tipo, agua).
+tiene(wartortle, tipo, agua).
+tiene(blastoise, tipo, agua).
+tiene(caterpie, tipo, bicho).
+tiene(metapod, tipo, bicho).
+tiene(butterfree, tipo, bicho).
+tiene(butterfree, tipo, volador).
+tiene(weedle, tipo, bicho).
+tiene(weedle, tipo, veneno).
+tiene(kakuna, tipo, bicho).
+tiene(kakuna, tipo, veneno).
+tiene(beedrill, tipo, bicho).
+tiene(beedrill, tipo, veneno).
+tiene(pidgey, tipo, normal).
+tiene(pidgey, tipo, volador).
+tiene(pidgeotto, tipo, normal).
+tiene(pidgeotto, tipo, volador).
+tiene(pidgeot, tipo, normal).
+tiene(pidgeot, tipo, volador).
+tiene(rattata, tipo, normal).
+tiene(raticate, tipo, normal).
+tiene(spearow, tipo, normal).
+tiene(spearow, tipo, volador).
+tiene(fearow, tipo, normal).
+tiene(fearow, tipo, volador).
+tiene(ekans, tipo, veneno).
+tiene(arbok, tipo, veneno).
+tiene(pikachu, tipo, electrico).
+tiene(raichu, tipo, electrico).
+tiene(sandshrew, tipo, tierra).
+tiene(sandslash, tipo, tierra).
+tiene(nidoran, tipo, veneno).
+tiene(nidorina, tipo, veneno).
+tiene(nidoqueen, tipo, veneno).
+tiene(nidoqueen, tipo, tierra).
+tiene(nidoran, tipo, veneno).
+tiene(nidorino, tipo, veneno).
+tiene(nidoking, tipo, veneno).
+tiene(nidoking, tipo, tierra).
+tiene(clefairy, tipo, hada).
+tiene(clefable, tipo, hada).
+tiene(vulpix, tipo, fuego).
+tiene(ninetales, tipo, fuego).
+tiene(jigglypuff, tipo, normal).
+tiene(jigglypuff, tipo, hada).
+tiene(wigglytuff, tipo, normal).
+tiene(wigglytuff, tipo, hada).
+tiene(zubat, tipo, veneno).
+tiene(zubat, tipo, volador).
+tiene(golbat, tipo, veneno).
+tiene(golbat, tipo, volador).
+tiene(oddish, tipo, planta).
+tiene(oddish, tipo, veneno).
+tiene(gloom, tipo, planta).
+tiene(gloom, tipo, veneno).
+tiene(vileplume, tipo, planta).
+tiene(vileplume, tipo, veneno).
+tiene(paras, tipo, bicho).
+tiene(paras, tipo, planta).
+tiene(parasect, tipo, bicho).
+tiene(parasect, tipo, planta).
+tiene(venonat, tipo, bicho).
+tiene(venonat, tipo, veneno).
+tiene(venomoth, tipo, bicho).
+tiene(venomoth, tipo, veneno).
+tiene(diglett, tipo, tierra).
+tiene(dugtrio, tipo, tierra).
+tiene(meowth, tipo, normal).
+tiene(persian, tipo, normal).
+tiene(psyduck, tipo, agua).
+tiene(golduck, tipo, agua).
+tiene(mankey, tipo, lucha).
+tiene(primeape, tipo, lucha).
+tiene(growlithe, tipo, fuego).
+tiene(arcanine, tipo, fuego).
+tiene(poliwag, tipo, agua).
+tiene(poliwhirl, tipo, agua).
+tiene(poliwrath, tipo, agua).
+tiene(poliwrath, tipo, lucha).
+tiene(abra, tipo, psiquico).
+tiene(kadabra, tipo, psiquico).
+tiene(alakazam, tipo, psiquico).
+tiene(machop, tipo, lucha).
+tiene(machoke, tipo, lucha).
+tiene(machamp, tipo, lucha).
+tiene(bellsprout, tipo, planta).
+tiene(bellsprout, tipo, veneno).
+tiene(weepinbell, tipo, planta).
+tiene(weepinbell, tipo, veneno).
+tiene(victreebel, tipo, planta).
+tiene(victreebel, tipo, veneno).
+tiene(tentacool, tipo, agua).
+tiene(tentacool, tipo, veneno).
+tiene(tentacruel, tipo, agua).
+tiene(tentacruel, tipo, veneno).
+tiene(geodude, tipo, roca).
+tiene(geodude, tipo, tierra).
+tiene(graveler, tipo, roca).
+tiene(graveler, tipo, tierra).
+tiene(golem, tipo, roca).
+tiene(golem, tipo, tierra).
+tiene(ponyta, tipo, fuego).
+tiene(rapidash, tipo, fuego).
+tiene(slowpoke, tipo, agua).
+tiene(slowpoke, tipo, psiquico).
+tiene(slowbro, tipo, agua).
+tiene(slowbro, tipo, psiquico).
+tiene(magnemite, tipo, electrico).
+tiene(magnemite, tipo, acero).
+tiene(magneton, tipo, electrico).
+tiene(magneton, tipo, acero).
+tiene(farfetchd, tipo, normal).
+tiene(farfetchd, tipo, volador).
+tiene(doduo, tipo, normal).
+tiene(doduo, tipo, volador).
+tiene(dodrio, tipo, normal).
+tiene(dodrio, tipo, volador).
+tiene(seel, tipo, agua).
+tiene(dewgong, tipo, agua).
+tiene(dewgong, tipo, hielo).
+tiene(grimer, tipo, veneno).
+tiene(muk, tipo, veneno).
+tiene(shellder, tipo, agua).
+tiene(cloyster, tipo, agua).
+tiene(cloyster, tipo, hielo).
+tiene(gastly, tipo, fantasma).
+tiene(gastly, tipo, veneno).
+tiene(haunter, tipo, fantasma).
+tiene(haunter, tipo, veneno).
+tiene(gengar, tipo, fantasma).
+tiene(gengar, tipo, veneno).
+tiene(onix, tipo, roca).
+tiene(onix, tipo, tierra).
+tiene(drowzee, tipo, psiquico).
+tiene(hypno, tipo, psiquico).
+tiene(krabby, tipo, agua).
+tiene(kingler, tipo, agua).
+tiene(voltorb, tipo, electrico).
+tiene(electrode, tipo, electrico).
+tiene(exeggcute, tipo, planta).
+tiene(exeggcute, tipo, psiquico).
+tiene(exeggutor, tipo, planta).
+tiene(exeggutor, tipo, psiquico).
+tiene(cubone, tipo, tierra).
+tiene(marowak, tipo, tierra).
+tiene(hitmonlee, tipo, lucha).
+tiene(hitmonchan, tipo, lucha).
+tiene(lickitung, tipo, normal).
+tiene(koffing, tipo, veneno).
+tiene(weezing, tipo, veneno).
+tiene(rhyhorn, tipo, tierra).
+tiene(rhyhorn, tipo, roca).
+tiene(rhydon, tipo, tierra).
+tiene(rhydon, tipo, roca).
+tiene(chansey, tipo, normal).
+tiene(tangela, tipo, planta).
+tiene(kangaskhan, tipo, normal).
+tiene(horsea, tipo, agua).
+tiene(seadra, tipo, agua).
+tiene(goldeen, tipo, agua).
+tiene(seaking, tipo, agua).
+tiene(staryu, tipo, agua).
+tiene(starmie, tipo, agua).
+tiene(starmie, tipo, psiquico).
+tiene(mr_mime, tipo, psiquico).
+tiene(mr_mime, tipo, hada).
+tiene(scyther, tipo, bicho).
+tiene(scyther, tipo, volador).
+tiene(jynx, tipo, hielo).
+tiene(jynx, tipo, psiquico).
+tiene(electabuzz, tipo, electrico).
+tiene(magmar, tipo, fuego).
+tiene(pinsir, tipo, bicho).
+tiene(tauros, tipo, normal).
+tiene(magikarp, tipo, agua).
+tiene(gyarados, tipo, agua).
+tiene(gyarados, tipo, volador).
+tiene(lapras, tipo, agua).
+tiene(lapras, tipo, hielo).
+tiene(ditto, tipo, normal).
+tiene(eevee, tipo, normal).
+tiene(vaporeon, tipo, agua).
+tiene(jolteon, tipo, electrico).
+tiene(flareon, tipo, fuego).
+tiene(porygon, tipo, normal).
+tiene(omanyte, tipo, roca).
+tiene(omanyte, tipo, agua).
+tiene(omastar, tipo, roca).
+tiene(omastar, tipo, agua).
+tiene(kabuto, tipo, roca).
+tiene(kabuto, tipo, agua).
+tiene(kabutops, tipo, roca).
+tiene(kabutops, tipo, agua).
+tiene(aerodactyl, tipo, roca).
+tiene(aerodactyl, tipo, volador).
+tiene(snorlax, tipo, normal).
+tiene(articuno, tipo, hielo).
+tiene(articuno, tipo, volador).
+tiene(zapdos, tipo, electrico).
+tiene(zapdos, tipo, volador).
+tiene(moltres, tipo, fuego).
+tiene(moltres, tipo, volador).
+tiene(dratini, tipo, dragon).
+tiene(dragonair, tipo, dragon).
+tiene(dragonite, tipo, dragon).
+tiene(dragonite, tipo, volador).
+tiene(mewtwo, tipo, psiquico).
+tiene(mew, tipo, psiquico).
 
-es_tipo_acero(X):-tipo(X, acero).
-es_tipo_agua(X):-tipo(X, agua).
-es_tipo_bicho(X):-tipo(X, bicho).
-es_tipo_dragon(X):-tipo(X, dragon).
-es_tipo_electrico(X):-tipo(X, electrico).
-es_tipo_fantasma(X):-tipo(X, fantasma).
-es_tipo_fuego(X):-tipo(X, fuego).
-es_tipo_hada(X):-tipo(X, hada).
-es_tipo_hielo(X):-tipo(X, hielo).
-es_tipo_lucha(X):-tipo(X, lucha).
-es_tipo_normal(X):-tipo(X, normal).
-es_tipo_planta(X):-tipo(X, planta).
-es_tipo_psiquico(X):-tipo(X, psiquico).
-es_tipo_roca(X):-tipo(X, roca).
-es_tipo_siniestro(X):-tipo(X, siniestro).
-es_tipo_tierra(X):-tipo(X, tierra).
-es_tipo_veneno(X):-tipo(X, veneno).
-es_tipo_volador(X):-tipo(X, volador).
-es_tipo_incognito(X):-tipo(X, incognito).
+es_tipo_acero(X):-tiene(X, tipo, acero).
+es_tipo_agua(X):-tiene(X, tipo, agua).
+es_tipo_bicho(X):-tiene(X, tipo, bicho).
+es_tipo_dragon(X):-tiene(X, tipo, dragon).
+es_tipo_electrico(X):-tiene(X, tipo, electrico).
+es_tipo_fantasma(X):-tiene(X, tipo, fantasma).
+es_tipo_fuego(X):-tiene(X, tipo, fuego).
+es_tipo_hada(X):-tiene(X, tipo, hada).
+es_tipo_hielo(X):-tiene(X, tipo, hielo).
+es_tipo_lucha(X):-tiene(X, tipo, lucha).
+es_tipo_normal(X):-tiene(X, tipo, normal).
+es_tipo_planta(X):-tiene(X, tipo, planta).
+es_tipo_psiquico(X):-tiene(X, tipo, psiquico).
+es_tipo_roca(X):-tiene(X, tipo, roca).
+es_tipo_siniestro(X):-tiene(X, tipo, siniestro).
+es_tipo_tierra(X):-tiene(X, tipo, tierra).
+es_tipo_veneno(X):-tiene(X, tipo, veneno).
+es_tipo_volador(X):-tiene(X, tipo, volador).
+es_tipo_incognito(X):-tiene(X, tipo, incognito).
 
 es_tipo_elemental(X):-es_tipo_acero(X)
  ; es_tipo_agua(X)
